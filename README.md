@@ -1,3 +1,33 @@
+# <Enriques Module-1-Challenge>
+
+## Description
+
+I was given a webpage and the coding behind the page and told to make sure the HTML and CSS was semantic and that links worked as well as other various issues. What you will see with what I have done is a cleaner CSS sheet along with changes made the the HTML to make it more semantic, the links at the top will now all bring you to where they are intended to and the images all now have ALT text tied to them. Throughout this project i learned how to properly tag elements together in CSS as well and debugging issues when it comes to linking to something within the same page. The outcome is a far cleaner CSS and a HTML that makes a bit more sense. 
+
+
+## Usage
+
+In the provided screenshots you will see the HTML and then the CSS as to how I consolidated the CSS so that all those Class/ids that had the same styling are now together on one line of CSS.
+As well I will provide screenshots with how I changed the title of the webpage in the HTML and how its now seen in the tab bar as "Horiseon Home Page"
+
+![alt text](assets/images/screenshot.png)
+
+
+## Features
+
+If your project has a lot of features, list them here.
+
+
+## Tests
+
+Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
+
+
+
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
