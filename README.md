@@ -11,8 +11,11 @@ In the provided screenshots you will see the HTML and then the CSS as to how I c
 As well I will provide screenshots with how I changed the title of the webpage in the HTML and how its now seen in the tab bar as "Horiseon Home Page"
 
 [HTML screenshot of class/ids that were consolidated in CSS](assets/images/HTML-Class-IDS.PNG)
+
 [CSS screenshot of the consolidated CSS code of the class/ids](assets/images/CSS-Consolidated.PNG)
+
 [HTML screenshot of the title html](assets/images/HTML-Title.PNG)
+
 [Webpage tab image of the title of how its shown in realtime](assets/images/Webpage-Title.PNG)
 
 
@@ -22,4 +25,5 @@ The main features to this project were, Making sure that all the links in the na
 
 Here is a link to the project so you can test all the functions ive made changes to and see that they are working perfectly.
 
+https://eaponte24.github.io/Module-1-Challenge/
 
